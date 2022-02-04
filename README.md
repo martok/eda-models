@@ -9,11 +9,31 @@ Go to `Control Panel -> Sym. & Lib Search paths`, add the `LTSpice` subdirectory
 
 ### List
 
- - HIP4081A (source: Intusoft Spice?)
+ - `HIP4081A` (source: Intusoft Spice?)
 
    This model has a buggy HDEL.
 
- - ilim (source: own)
+ - `ilim` (source: own)
 
    Configurable current limiter (numerically much more stable than simple switch/diode models)
+
+## KiCad
+
+### How to add
+
+Go to `Preferences -> Manage Symbol/Footprint Libraries`, add the `*.kicad_sym` files or `*.pretty` directories of the `KiCad` subdirectory of this repo.
+
+### Footprints
+
+ - `DBHD15M_CI_A`
+
+   D-SUB 15-pin HD Mal connector, mounted on the side of the PCB
+
+ - `PADS_02_L`
+
+   2 large pads
+
+ - `Tab_250_2P_Vert`
+
+   Faston .250" (6.35mm) series Tab, vertical, 2 pads
 
