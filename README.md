@@ -27,7 +27,7 @@ Go to `Preferences -> Manage Symbol/Footprint Libraries`, add the `*.kicad_sym` 
 
  - `DBHD15M_CI_A`
 
-   D-SUB 15-pin HD Mal connector, mounted on the side of the PCB
+   D-SUB 15-pin HD Male connector, mounted on the side of the PCB
 
  - `PADS_02_L`
 
@@ -37,3 +37,6 @@ Go to `Preferences -> Manage Symbol/Footprint Libraries`, add the `*.kicad_sym` 
 
    Faston .250" (6.35mm) series Tab, vertical, 2 pads
 
+ - `TO-220-3_Horizontal_TabUp_NoDrill`
+
+   TO-220-3, Horizontal, RM 2.54mm, upside down with no mounting hole
