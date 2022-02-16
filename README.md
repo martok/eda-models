@@ -23,6 +23,21 @@ Go to `Control Panel -> Sym. & Lib Search paths`, add the `LTSpice` subdirectory
 
 Go to `Preferences -> Manage Symbol/Footprint Libraries`, add the `*.kicad_sym` files or `*.pretty` directories of the `KiCad` subdirectory of this repo.
 
+### Symbols
+
+ - `3.0SMCJ11A`
+
+   Littelfuse 3.0SMCJ - Surface Mount - 3000W - DO-214AB - Vrm 11
+
+ - `APV1121`
+
+   Panasonic Photovoltaic Isolator / MOSFET driver
+
+ - `SMA6J11A-Q`
+
+   Littelfuse SMA6J-Q Transient Voltage Suppressor Diode Series, 11Vrwm, DO-214AC
+
+
 ### Footprints
 
  - `DBHD15M_CI_A`
