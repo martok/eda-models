@@ -33,6 +33,10 @@ Go to `Preferences -> Manage Symbol/Footprint Libraries`, add the `*.kicad_sym` 
 
    Panasonic Photovoltaic Isolator / MOSFET driver
 
+ - `MCP3918`
+
+   Microchip 3V Single-Channel Analog Front End
+
  - `SMA6J11A-Q`
 
    Littelfuse SMA6J-Q Transient Voltage Suppressor Diode Series, 11Vrwm, DO-214AC
